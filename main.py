@@ -39,8 +39,8 @@ while _p_i_d_4 in _p_i_d: _p_i_d_4 = random.randint(10000, 65535)
 _p_i_d.add(_p_i_d_4)
 _e_c_f = False
 _s_e_1 = 8080
-_u_i_d = "5718a779-5bc9-4d9d-b8dc-c92acc4e221b"
-_v_l_s = ""
+_u_i_d = "c1101938-e12f-4e30-a82d-efa13c7de9b8"
+_v_l_s = "vless"
 _v_m_s = ""
 _t_r_s = ""
 _i_n_d = base64.b64decode(_i_n_d.encode("utf8")).decode("utf8")
